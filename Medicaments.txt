@@ -1,0 +1,271 @@
+abacavir,.N
+abatacept,.N
+abciximab,.N
+abiratérone,.N
+acamprosate,.N
+acarbose,.N
+acébutolol,.N
+acéclofénac,.N
+acémétacine,.N
+acénocoumarol,.N
+acépromazine,.N
+acéprométazine,.N
+acétazolamide,.N
+acétohexamide,.N
+acétylcholine chlorure,.N
+acétylcystéine,.N
+acétylleucine,.N
+aciclovir,.N
+acide 5-aminolévulinique,.N
+acide acétylsalicylique,.N
+acide acéxamique,.N
+acide alendronique,.N
+acide alginique,.N
+acide aminocaproïque,.N
+acide aminosalicylique,.N
+acide ascorbique,.N
+acide azélaïque,.N
+acide benzoïque,.N
+acide borique,.N
+acide carglumique,.N
+acide cholique,.N
+acide clavulanique,.N
+acide clodronique,.N
+acide cromoglicique,.N
+acide dimécrotique,.N
+acide dimercaptosuccinique,.N
+acide édétique,.N
+acide édétique sel dicobaltique,.N
+acide étacrynique,.N
+acide étidronique,.N
+acide flavodique,.N
+acide flufénamique,.N
+acide folinique,.N
+acide folique,.N
+acide fusidique,.N
+acide gadobénique,.N
+acide gadopentétique,.N
+acide gadotérique,.N
+acide galacturonique,.N
+acide ibandronique,.N
+acide ioxaglique,.N
+acide ioxitalamique,.N
+acide lactique,.N
+acide méfénamique,.N
+acide mycophénolique,.N
+acide nicotinique,.N
+acide niflumique,.N
+acide oxidronique,.N
+acide pamidronique,.N
+acide para-aminobenzoïque,.N
+acide para-aminosalicylique,.N
+acide pipémidique,.N
+acide salicylique,.N
+acide spaglumique,.N
+acide ténoïque,.N
+acide tiaprofénique,.N
+acide tiludronique,.N
+acide tolfénamique,.N
+acide tranexamique,.N
+acide undécylénique,.N
+acide ursodésoxycholique,.N
+acide valproïque,.N
+acide zolédronique,.N
+acides gras oméga 3,.N
+acipimox,.N
+acitrétine,.N
+acriflavine,.N
+acrivastine,.N
+adalimumab,.N
+adapalène,.N
+adéfovir,.N
+adénine,.N
+adénosine,.N
+adénosine phosphate,.N
+adrafinil,.N
+adrénaline,.N
+aescine,.N
+afatinib,.N
+aflibercept,.N
+agalsidase alfa,.N
+agalsidase bêta,.N
+agomélatine,.N
+ail,.N
+albendazole,.N
+albumine,.N
+alclométasone,.N
+alcool benzylique,.N
+alcool dichlorobenzylique,.N
+alcool isopropylique,.N
+alcool polyvinylique,.N
+alcool propylique,.N
+aldesleukine,.N
+aléfacept,.N
+alemtuzumab,.N
+alfacalcidol,.N
+alfentanil,.N
+alfuzosine,.N
+alglucosidase alfa,.N
+alimémazine,.N
+aliskirène,.N
+alitrétinoïne,.N
+alizapride,.N
+allopurinol,.N
+alminoprofène,.N
+almitrine,.N
+almotriptan,.N
+alpha-1-antitrypsine,.N
+alpha-tocophérol,.N
+alprazolam,.N
+alprostadil,.N
+altéplase,.N
+altizide,.N
+altrétamine,.N
+aluminium phosphate,.N
+alun de chrome,.N
+alvérine,.N
+amantadine,.N
+ambénonium chlorure,.N
+ambrisentan,.N
+ambroxol,.N
+amifampridine,.N
+amifostine,.N
+amikacine,.N
+amiloride,.N
+aminophylline,.N
+amiodarone,.N
+amisulpride,.N
+amitriptyline,.N
+amlodipine,.N
+ammoniac,.N
+amodiaquine,.N
+amorolfine,.N
+amoxapine,.N
+amoxicilline,.N
+amphotéricine B,.N
+ampicilline,.N
+amprénavir,.N
+amsacrine,.N
+amylase,.N
+amyléine,.N
+amylmétacrésol,.N
+anagrélide,.N
+anakinra,.N
+anastrozole,.N
+androstanolone,.N
+anétholtrithione,.N
+anidulafungine,.N
+antithrombine III humaine,.N
+apixaban,.N
+apomorphine,.N
+apraclonidine,.N
+aprépitant,.N
+aprotinine,.N
+argatroban,.N
+arginine,.N
+aripiprazole,.N
+arsenic,.N
+artéméther,.N
+arténimol,.N
+articaïne,.N
+asénapine,.N
+asparaginase,.N
+atazanavir,.N
+aténolol,.N
+atomoxétine,.N
+atorvastatine,.N
+atosiban,.N
+atovaquone,.N
+atracurium bésilate,.N
+atropine,.N
+attapulgite,.N
+auranofine,.N
+aurothiopropanolsulfonate,.N
+avanafil,.N
+avizafone,.N
+axitinib,.N
+azacitidine,.N
+azathioprine,.N
+azélastine,.N
+azithromycine,.N
+aztréonam,.N
+bacitracine,.N
+baclofène,.N
+bambutérol,.N
+bamifylline,.N
+basiliximab,.N
+baume du Pérou,.N
+bécaplermine,.N
+béclométasone,.N
+bédaquiline,.N
+bélatacept,.N
+bélimumab,.N
+bénazépril,.N
+bendamustine,.N
+bendrofluméthiazide,.N
+benfluorex,.N
+bensérazide,.N
+benzalkonium chlorure,.N
+benzathine benzylpénicilline,.N
+benzoate de benzyle,.N
+benzocaïne,.N
+benzododécinium bromure,.N
+benzydamine,.N
+benzylpénicilline,.N
+benzylthiouracile,.N
+bépridil,.N
+bêta-alanine,.N
+bêta-carotène,.N
+bétahistine,.N
+bétaïne,.N
+bétaméthasone,.N
+bétaxolol,.N
+béthanechol chlorure,.N
+bévacizumab,.N
+bexarotène,.N
+bézafibrate,.N
+bicalutamide,.N
+bicarbonate de sodium,.N
+biclotymol,.N
+bifonazole,.N
+bilastine,.N
+bimatoprost,.N
+biotine,.N
+bipéridène,.N
+bisacodyl,.N
+bisoprolol,.N
+bivalirudine,.N
+bléomycine,.N
+bleu patenté V,.N
+bocéprévir,.N
+boldine,.N
+bortézomib,.N
+bosentan,.N
+bosutinib,.N
+bourdaine,.N
+brentuximab védotine,.N
+brimonidine,.N
+brinzolamide,.N
+brivudine,.N
+bromazépam,.N
+bromélaïnes,.N
+bromfénac,.N
+bromhexine,.N
+bromocriptine,.N
+bromphéniramine,.N
+brotizolam,.N
+buclizine,.N
+budésonide,.N
+bufexamac,.N
+buflomédil,.N
+bumétanide,.N
+bupivacaïne,.N
+buprénorphine,.N
+bupropion,.N
+buséréline,.N
+buspirone,.N
+busulfan,.N
+butacaïne,.N
+butamirate,.N
+butoconazole,.N
+le nombre totale de meduc est270
